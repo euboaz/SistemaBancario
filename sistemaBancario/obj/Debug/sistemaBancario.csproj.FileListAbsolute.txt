@@ -1,0 +1,8 @@
+C:\Users\Eusebio\source\repos\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.exe.config
+C:\Users\Eusebio\source\repos\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.exe
+C:\Users\Eusebio\source\repos\sistemaBancario\sistemaBancario\bin\Debug\sistemaBancario.pdb
+C:\Users\Eusebio\source\repos\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.csproj.AssemblyReference.cache
+C:\Users\Eusebio\source\repos\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eusebio\source\repos\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.csproj.CoreCompileInputs.cache
+C:\Users\Eusebio\source\repos\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.exe
+C:\Users\Eusebio\source\repos\sistemaBancario\sistemaBancario\obj\Debug\sistemaBancario.pdb
